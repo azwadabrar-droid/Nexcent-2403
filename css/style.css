@@ -129,7 +129,63 @@ padding: 161px 0px;
 
 }
 
-
-
-
  /*client end part */
+ /*commounity end part */
+.commounity{
+    padding: 40px 0px;
+}
+
+
+.commounity .title h2{
+    width: 542px;
+    margin: 0 auto;
+
+}
+.commounity .card{
+    width: 100% !important;
+    padding-left: 42px;
+    padding-right: 42px; 
+    padding-top: 24px;
+    padding-bottom: 46px ;
+    text-align: center; 
+    border: 0px !important;
+    -webkit-box-shadow: -4px 22px 45px -26px rgba(0,0,0,0.6);
+-moz-box-shadow: -4px 22px 45px -26px rgba(0,0,0,0.6);
+box-shadow: -4px 22px 45px -26px rgba(0,0,0,0.6);
+margin-top: 17px;
+
+}
+.commounity .card img{
+    width: 20%;
+    margin: 0 auto;  
+
+}
+.commounity .card .card-title{
+    font-size: 28px; 
+    color: #4D4D4D;
+    font-weight: 1000;
+    font-family: "Inter", sans-serif;
+    padding-top: 16px;
+    padding-bottom: 8px;
+
+}
+.commounity .card .card-text{
+    font-size: 14px; 
+    color: #717171;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;  
+
+}
+.commounity .card .card-body{
+padding: 0 !important;
+
+}
+
+.commounity .card p{
+margin-bottom: 0px;
+}
+
+
+
+
+ /*commounity end part */
