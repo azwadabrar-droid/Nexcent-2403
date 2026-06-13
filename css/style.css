@@ -185,7 +185,14 @@ padding: 0 !important;
 margin-bottom: 0px;
 }
 
-
-
-
  /*commounity end part */
+  /*Service Start part */
+    .service{
+        padding: 48px 0px;
+    }
+
+    .service .title2{
+        text-align: left;
+    }
+
+   /*Service end part */
