@@ -187,6 +187,7 @@ margin-bottom: 0px;
 
  /*commounity end part */
   /*Service Start part */
+
     .service{
         padding: 48px 0px;
     }
@@ -196,3 +197,50 @@ margin-bottom: 0px;
     }
 
    /*Service end part */
+   /*Details Start part */
+    .details{
+    padding: 84px 0px;
+    background: #F5F7FA;
+    margin: 48px 0px;
+  }
+    .details .title{
+        text-align: left;
+    }
+     .details .title h2{
+        width: 390px;
+        padding-bottom: 8px;
+    }
+    .details .title h2 span{
+        color: #4CAF4F;
+    }
+    .details .payment-box{
+        width: 47%;
+        display: flex;
+        align-items: center;
+        column-gap: 16px;
+
+    }
+      .details .payment-box h4{
+        font-size: 28px;
+        color: #4D4D4D;
+        font-weight: 700;
+        font-family: "Inter", sans-serif;  
+
+      }
+      .details .payment-box p{
+        font-size: 16px;
+        color: #717171;
+        font-weight: 400;
+        font-family: "Inter", sans-serif;  
+
+      }
+     
+      .details .box{
+        flex-wrap: wrap;
+        column-gap: 30px;
+        row-gap: 40px;
+      }
+
+
+
+   /*Details end part */
