@@ -241,6 +241,42 @@ margin-bottom: 0px;
         row-gap: 40px;
       }
 
-
-
    /*Details end part */
+   /*Diddy Start part */
+   .customer{
+    padding: 32px 0px;
+    background: #F5F7FA;
+   }
+   .customer p{
+        font-size: 16px;
+        color: #717171;
+        font-weight: 500;
+        font-family: "Inter", sans-serif; 
+        width: 748px;
+   }
+      .customer h6{
+        font-size: 20px;
+        color: #4CAF4F;
+        font-weight: 600;
+        font-family: "Inter", sans-serif;
+        padding-top: 16px;
+        padding-bottom: 8px;
+   }
+   .customer .slider{
+        display: flex;
+        justify-content: space-between;
+
+   }
+   .customer .slider h4{
+        font-size: 20px;
+        color: #4CAF4F;
+        font-weight: 600;
+        font-family: "Inter", sans-serif;
+        
+   }
+      .customer .slider h4 i{
+        margin-left: 8px;
+        margin-top: 20px;
+        
+   }
+   /*Diddy end part */
